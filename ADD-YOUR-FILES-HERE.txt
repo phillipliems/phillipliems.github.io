@@ -1,0 +1,5 @@
+Optional files:
+- profile.jpg
+- phillip-liems-resume.pdf
+
+Then update the LinkedIn and email placeholders in index.html.
